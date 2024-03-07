@@ -1,5 +1,5 @@
 # 🎬 Movie Ticket Booking Project
-
+![image](https://github.com/jha-nikita/Kaggle_Bank-Churn/assets/115389358/f50ecc72-757d-4219-8926-298c1623ae92)
 This is a simple movie ticket booking application implemented in Java. It allows users to view available movies and book tickets.
 
 ## 🎟️ Features
